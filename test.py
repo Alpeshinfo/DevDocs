@@ -1,3 +1,0 @@
-hi
-print("Hello, World!")
-
