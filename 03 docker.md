@@ -1,4 +1,4 @@
-# Docker Commands Cheat Sheet
+# Docker Commands Sheet
 
 ### Docker Installation Instructions
 
