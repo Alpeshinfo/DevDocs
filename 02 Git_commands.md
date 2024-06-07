@@ -26,7 +26,7 @@ git --version
 **git commit -m "message"** : <sub><sup>Commit changes with a message.</sup></sub><br>
 **git push** : <sub><sup>Push local changes to a remote repository.</sup></sub><br>
 **git pull** : <sub><sup>Fetch from and integrate with another repository or a local branch.</sup></sub><br>
-**git branch** : <sub><sup>List, create, or delete branches.</i><br>
+**git branch** : <sub><sup>List, create, or delete branches.</sup></sub><br>
 **git checkout <branch>**: <sub><sup>Switch branches or restore working tree files.</sup></sub><br>
 **git merge <branch>**: <sub><sup>Merge changes from a specified branch into the current branch.</sup></sub><br>
 **git fetch**: <sub><sup>Download objects and refs from another repository.</sup></sub><br>
@@ -34,24 +34,24 @@ git --version
 
 ### Repository Management
 
-**git remote add origin <repository>** : <i>Add a remote repository.</i><br>
-**git remote -v**: <i>List all remote repositories.</i><br>
-**git remote show origin** : <i>Show information about a remote repository.</i><br>
-**git remote rename <old> <new>** : <i>Rename a remote.</i><br>
-**git remote remove <repository>** : <i>Remove a remote repository.</i><br>
-**git tag**: <i>Create, list, delete or verify a tag object.</i>
+**git remote add origin <repository>** : <sub><sup>Add a remote repository.</sup></sub><br>
+**git remote -v**: <sub><sup>List all remote repositories.</sup></sub><br>
+**git remote show origin** : <sub><sup>Show information about a remote repository.</sup></sub><br>
+**git remote rename <old> <new>** : <sub><sup>Rename a remote.</sup></sub><br>
+**git remote remove <repository>** : <sub><sup>Remove a remote repository.</sup></sub><br>
+**git tag**: <sub><sup>Create, list, delete or verify a tag object.</sup></sub>
 
 ### Undoing Changes
 
-**git reset <file>**: <i>Unstage file(s) from the staging area.</i><br>
-**git checkout -- <file>**: <i>Discard changes in working directory.</i><br>
-**git revert <commit>**: <i>Revert a commit.</i><br>
-**git reset --hard <commit>**: <i>Reset to a previous commit and discard changes.</i><br>
-**git clean -f**: <i>Remove untracked files from the working directory.</i>
+**git reset <file>**: <sub><sup>Unstage file(s) from the staging area.</sup></sub><br>
+**git checkout -- <file>**: <sub><sup>Discard changes in working directory.</sup></sub><br>
+**git revert <commit>**: <sub><sup>Revert a commit.</sup></sub><br>
+**git reset --hard <commit>**: <sub><sup>Reset to a previous commit and discard changes.</sup></sub><br>
+**git clean -f**: <sub><sup>Remove untracked files from the working directory.</sup></sub>
 
 ### Branching and Merging
-**git branch**: <i>List, create, or delete branches.</i><br>
-**git checkout <branch>**: <i>Switch branches or restore working tree files.</i><br>
-**git merge <branch>**: <i>Merge changes from a specified branch into the current branch.</i><br>
-**git rebase <branch>**: <i>Reapply commits on top of another base tip.</i><br>
-**git cherry-pick <commit>**: <i>Apply changes from a specific commit.</i><br>
+**git branch**: <sub><sup>List, create, or delete branches.</sup></sub><br>
+**git checkout <branch>**: <sub><sup>Switch branches or restore working tree files.</sup></sub><br>
+**git merge <branch>**: <sub><sup>Merge changes from a specified branch into the current branch.</sup></sub><br>
+**git rebase <branch>**: <sub><sup>Reapply commits on top of another base tip.</sup></sub><br>
+**git cherry-pick <commit>**: <sub><sup>Apply changes from a specific commit.</sup></sub><br>
