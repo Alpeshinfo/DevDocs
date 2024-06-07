@@ -19,17 +19,17 @@ sudo yum install git
 git --version
 ```
 ### Basic Git Commands
-**git init** : <i>Initialize a new Git repository.</i><br>
-**git clone <repository>**: <i>Clone a repository into a new directory.</i><br>
-**git status** : <i>Show the working tree status.</i><br>
-**git add <file>** : <i>Add file(s) to the staging area.</i><br>
-**git commit -m "message"** : <i>Commit changes with a message.</i><br>
-**git push** : <i>Push local changes to a remote repository.</i><br>
-**git pull** : <i>Fetch from and integrate with another repository or a local branch.</i><br>
-**git branch** : <i>List, create, or delete branches.</i><br>
-**git checkout <branch>**: <i>Switch branches or restore working tree files.</i><br>
-**git merge <branch>**: <i>Merge changes from a specified branch into the current branch.</i><br>
-**git fetch**: <i>Download objects and refs from another repository.</i><br>
+**git init** : <sub><sup>Initialize a new Git repository.</sup></sub><br>
+**git clone <repository>**: <sub><sup>Clone a repository into a new directory.</sup></sub><br>
+**git status** : <sub><sup>Show the working tree status.</sup></sub><br>
+**git add <file>** : <sub><sup>Add file(s) to the staging area.</sup></sub><br>
+**git commit -m "message"** : <sub><sup>Commit changes with a message.</sup></sub><br>
+**git push** : <sub><sup>Push local changes to a remote repository.</sup></sub><br>
+**git pull** : <sub><sup>Fetch from and integrate with another repository or a local branch.</sup></sub><br>
+**git branch** : <sub><sup>List, create, or delete branches.</i><br>
+**git checkout <branch>**: <sub><sup>Switch branches or restore working tree files.</sup></sub><br>
+**git merge <branch>**: <sub><sup>Merge changes from a specified branch into the current branch.</sup></sub><br>
+**git fetch**: <sub><sup>Download objects and refs from another repository.</sup></sub><br>
  
 
 ### Repository Management
